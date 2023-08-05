@@ -1,0 +1,34 @@
+#MainMenu,.css-eh5xgm.e1ewe7hr3 {visibility: hidden;}
+footer{visibility: hidden;}
+header{visibility: hidden;}
+
+#get_project{
+    align-items: center;
+    display: flex;
+}
+
+.card{
+    height :100%;
+    width: 100%;
+    background-image:  url('https://th.bing.com/th/id/OIP.AKpdMqmPCyB8n_z_xy-dKgHaNL?pid=ImgDet&rs=1') ;
+    background-blend-mode:darken;
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #ffffff;
+    color: rgb(255, 0, 0); /* Set the text color */
+    text-shadow: 0 0 10px rgba(6, 0, 0, 0.8), 0 0 20px rgba(255, 0, 0, 0.8), 0 0 30px rgba(255, 183, 0, 0.8),0 0 30px rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.p_card{
+    font-size: auto;
+    background-color: 40% rgb(230, 217, 217);
+    font-weight: bold;
+    text-justify: distribute-all-lines;
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 183, 0, 0.8);
+
+}
+
